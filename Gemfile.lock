@@ -44,7 +44,7 @@ GEM
     maven-tools (1.1.6)
       virtus (~> 1.0)
     multi_json (1.15.0)
-    rack (2.2.3)
+    rack (3.1.4)
     rake (13.0.1)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
@@ -80,7 +80,7 @@ DEPENDENCIES
   jar-dependencies (= 0.3.12)
   jbundler (~> 0.9.3)
   jruby-jars (= 9.2.0.0)
-  rack (>= 2.0.6)
+  rack (>= 2.2.3.1)
   rake
   tilt (~> 2.0.8)
   warbler (~> 2.0.5)
